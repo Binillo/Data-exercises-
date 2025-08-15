@@ -1,0 +1,6 @@
+# Ignorar la carpeta del entorno de Conda
+env/
+# Ignorar caché de Python
+__pycache__/
+# Ignorar archivos del sistema operativo
+.DS_Store
